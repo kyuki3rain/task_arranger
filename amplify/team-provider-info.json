@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-taskarranger-dev-160319-authRole",
+      "UnauthRoleArn": "arn:aws:iam::101160432338:role/amplify-taskarranger-dev-160319-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::101160432338:role/amplify-taskarranger-dev-160319-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-taskarranger-dev-160319-deployment",
+      "UnauthRoleName": "amplify-taskarranger-dev-160319-unauthRole",
+      "StackName": "amplify-taskarranger-dev-160319",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:101160432338:stack/amplify-taskarranger-dev-160319/9e7f7a00-c370-11eb-9853-0ae7ebd63c61",
+      "AmplifyAppId": "d1c1dox994zagq"
+    },
+    "categories": {
+      "auth": {
+        "taskarranger5390c240": {}
+      }
+    }
+  }
+}
